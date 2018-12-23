@@ -1,2 +1,2 @@
-# devoirDEAN
+# projetDean
 Devoir (IUTULCO)
